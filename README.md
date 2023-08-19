@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Rodrigo Costa, sou estudante do curso de Análise e Desenvolvimneto de Sistemas na faculdade Positivo em Curitiba. Atualmente também estou fazendo um curso para desenvolvimento Full Stack no <a href="https://rodolfomori.com.br/front-end/"  target="_blank" >DevClub.<a/> 
+Meu nome é Rodrigo Costa, sou estudante do curso de Análise e Desenvolvimneto de Sistemas na faculdade Positivo em Curitiba. Atualmente também estou fazendo um curso para desenvolvimento Full Stack./> 
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcostarodrigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
